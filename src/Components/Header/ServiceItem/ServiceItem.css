@@ -1,0 +1,18 @@
+.service{
+    width:25%;
+    padding:20px;
+    cursor:pointer;
+}
+.service img{
+    width:100%;
+}
+.img-title{
+   margin-top: -20px;
+    color:white;
+    height:90px;
+    border-radius: 5px 5px 5px 5px;
+}
+.img-title h6{
+   text-align: center;
+   padding-top: 40px;
+}

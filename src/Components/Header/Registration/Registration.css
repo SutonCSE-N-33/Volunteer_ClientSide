@@ -1,0 +1,21 @@
+.registration-form{
+    transform: translate(0px,70px);
+    width:400px;
+    height: 400px;
+    margin: auto;
+    padding:20px 30px;
+    background-color: white;
+    box-shadow: 0px 0px 2px 0px rgb(183, 171, 171);
+}
+.registration-form h4{
+    font-weight: 700;
+    font-size: 20px;
+}
+.registration-form form input{
+    border-bottom: 1px solid gray !important;
+    outline:none;
+    border: none;
+    margin-top: 20px;
+    width: 100%;
+    font-size: 20px;
+}

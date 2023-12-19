@@ -1,0 +1,31 @@
+.volunteer-growth{
+    text-align: center;
+    margin-top:50px;
+}
+.volunteer-growth h1{
+    font-weight: 700;
+}
+.volunteer-growth input{
+    width:300px;
+    padding:5px 5px;
+    outline:none;
+}
+
+.search-button{
+    margin-top: 20px;
+    padding:7px 15px;
+    background-color: #3F90FC;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    color:white;
+}
+.serviceItem{
+    margin-top: -30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding:80px;
+
+}

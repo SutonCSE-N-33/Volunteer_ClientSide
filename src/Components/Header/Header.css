@@ -1,0 +1,11 @@
+.navbar{
+
+}
+.navItem{
+    transform: translateX(450px);
+    
+}
+.nav-btn{
+    margin-left: 10px;
+    padding: 5px 30px !important;
+}
